@@ -1,0 +1,20 @@
+body{
+	background-image: url(joinus.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 200px;
+	align-content: center;
+	justify-content: center;
+	text-align: center;
+}
+
+
+
+.center h2 {
+  margin: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
